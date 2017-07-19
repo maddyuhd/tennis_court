@@ -1,6 +1,5 @@
 # tennis_court demo
 
-Changes:
 Version 0.1 
 
  -Quick implemation
