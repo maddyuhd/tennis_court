@@ -1,9 +1,9 @@
 # tennis_court demo
 
-Version 0.1 
+Libraries Required:
+-opencv
+-python
 
- -Quick implemation
- 
 
 /output
 
