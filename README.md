@@ -14,8 +14,11 @@ OUTPUT:
 -(single side line) in Green
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/test.jpg "/output test.jpg" alt="Slate: API Documentation Generator" width="226">
-  <br>
+  <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/test.jpg "/output test.jpg" 
+  width="700">
 </p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/tennis_court.jpg" width=700 alt="Screenshot of Example Documentation created with Slate"></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/tennis_court.jpg" 
+width=700 
+</p>
