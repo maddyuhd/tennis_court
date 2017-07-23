@@ -7,11 +7,9 @@
 -C++
 -python
 
-
-<p align="center">OUTPUT: </p>
 OUTPUT:
 ------------
-
+* **-(base line) in RED **
 -(base line) in RED 
 -(double sideline) in Yellow
 -(single side line) in Green
