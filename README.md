@@ -13,7 +13,7 @@ OUTPUT:
 * Yellow — double sideline
 * Green — single side line 
 
-<p align="center">
+<p align="right">
   <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/test.jpg "/output test.jpg" 
   width="700">
 </p>
