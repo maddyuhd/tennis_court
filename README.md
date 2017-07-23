@@ -10,9 +10,9 @@ Language:
 
 OUTPUT:
 ------------
-* (base line) in Red 
-* (double sideline) in Yellow 
-* (single side line) in Green 
+* Red — base line 
+* Yellow — double sideline
+* Green — single side line 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/test.jpg "/output test.jpg" 
