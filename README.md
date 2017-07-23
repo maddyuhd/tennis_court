@@ -1,4 +1,3 @@
-# tennis_court demo
 ```shell
 Libraries Required:
   — OpenCV
