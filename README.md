@@ -15,10 +15,10 @@ OUTPUT:
 
 <p align="right">
   <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/test.jpg "/output test.jpg" 
-  width="700">
+  width="600">
 </p>
 
-<p align="center">
+<p align="right">
 <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/tennis_court.jpg" 
-width=700 
+width=600 
 </p>
