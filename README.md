@@ -1,18 +1,18 @@
 # tennis_court demo
 ```shell
 Libraries Required:
-  -Opencv
+  — OpenCV
 
 Language:
-  -C++
-  -python
+  — C++
+  — Python
 ```
 
 OUTPUT:
 ------------
-* **(base line) in Red **
-* **(double sideline) in Yellow **
-* **(single side line) in Green **
+* **(base line) in Red ** *
+* **(double sideline) in Yellow ** *
+* **(single side line) in Green ** *
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maddyuhd/tennis_court/master/output/test.jpg "/output test.jpg" 
